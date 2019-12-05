@@ -1,5 +1,13 @@
 # Fibonicci-Over-Several-Languages
 Just trying to do some same things with languages i know (or not)
+Currently im digging:
+* JS(node)
+* Python / PyPy
+* Dart
+* PHP
+* Go
+* C (maybe D too)
+* Java
 
 ## Thoughts
 Its all about doing simple tasks, 
